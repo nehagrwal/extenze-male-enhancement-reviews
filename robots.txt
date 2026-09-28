@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/extenze-male-enhancement-reviews/sitemap.xml
+Sitemap: https://extenze-male-enhancement-reviews.vercel.app/sitemap-vercel.xml
+Sitemap: https://extenze-male-enhancement-reviews.pages.dev/sitemap-cloudflare.xml
